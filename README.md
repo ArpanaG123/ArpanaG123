@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arpana</h1>
-<h3 align="center">A Passionate Backend developer(Nodejs) from India</h3>
+<h3 align="center">A Passionate Backend developer.</h3>
 <img align="right" alt = "coding" width:"100" src = "https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpanag123&label=Profile%20views&color=0e75b6&style=flat" alt="arpanag123" /> </p>
@@ -8,11 +8,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ArpanaG123](https://github.com/ArpanaG123)
 
-- 💬 Ask me about **HTML,CSS,JAVASCRIPT,REACT,Nodejs, MongoDB and MySQL**
+- 💬 Ask me about **HTML,CSS,JAVASCRIPT,Nodejs,MongoDB and MySQL, C++, Python, Data Structure**
 
 - 📫 How to reach me **kashyaparpana203@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1PpxaxXaHT9O-E7QbkpqwnHdsVjKNqv4p/view?usp=share_link](https://drive.google.com/file/d/1PpxaxXaHT9O-E7QbkpqwnHdsVjKNqv4p/view?usp=share_link)
+- 📄 Know about my experiences https://drive.google.com/file/d/1Ptght1-yVYVybBqwu77uJgO0C1L39kBu/view?usp=drive_link
 
 - ⚡ Fun fact **I am funny at dubbing someone**
 
