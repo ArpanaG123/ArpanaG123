@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arpana</h1>
-<h3 align="center">A Passionate Backend developer.</h3>
+<h3 align="center">A Passionate Software Engineer.</h3>
 <img align="right" alt = "coding" width:"100" src = "https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpanag123&label=Profile%20views&color=0e75b6&style=flat" alt="arpanag123" /> </p>
