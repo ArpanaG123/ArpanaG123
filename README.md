@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpanag123&label=Profile%20views&color=0e75b6&style=flat" alt="arpanag123" /> </p>
 
-- 🌱 I’m currently learning **FullStack development**
+- 🌱 I’m currently learning ........
 
 - 👨‍💻 All of my projects are available at [https://github.com/ArpanaG123](https://github.com/ArpanaG123)
 
