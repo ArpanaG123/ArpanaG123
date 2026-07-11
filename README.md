@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ArpanaG123](https://github.com/ArpanaG123)
 
-- 💬 Ask me about **HTML,CSS,JAVASCRIPT,Nodejs,MongoDB, MySQL, C++, Python, Data Structure**
+- 💬 Ask me about **HTML,CSS,JAVASCRIPT,Nodejs,MongoDB, MySQL, C++, Python, Java,Data Structure & Akgorithm. **
 
 - 📫 How to reach me **kashyaparpana203@gmail.com**
 
