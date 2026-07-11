@@ -12,8 +12,7 @@
 
 - 📫 How to reach me **kashyaparpana203@gmail.com**
 
-- 📄 Know about my experiences https://drive.google.com/file/d/1Ptght1-yVYVybBqwu77uJgO0C1L39kBu/view?usp=drive_link
-
+- 📄 Know about my experiences https://drive.google.com/file/d/1KTrwnfaD1-urufyS4S45eiDJ2TSAAQVa/view?usp=drive_link
 - ⚡ Fun fact **I am funny at dubbing someone**
 
 <h3 align="left">Connect with me:</h3>
